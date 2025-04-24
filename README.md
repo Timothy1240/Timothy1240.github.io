@@ -16,9 +16,9 @@
 - Implemented **IAM roles** and **Elastic IP** to secure and stabilize the deployment.
 
 <div align="center">
-  <img src="assets/img/1.jpg" alt="AWS Project Screenshot 1" width="30%" style="margin: 10px;">
-  <img src="assets/img/2.jpg" alt="AWS Project Screenshot 2" width="30%" style="margin: 10px;">
-  <img src="assets/img/3.jpg" alt="AWS Project Screenshot 3" width="30%" style="margin: 10px;">
+  <img src="assets/img/1.jpg" alt="AWS Project Screenshot 1" width="40%" style="margin: 10px;">
+  <img src="assets/img/2.jpg" alt="AWS Project Screenshot 2" width="40%" style="margin: 10px;">
+  <img src="assets/img/3.jpg" alt="AWS Project Screenshot 3" width="40%" style="margin: 10px;">
 </div>
 
 ---
