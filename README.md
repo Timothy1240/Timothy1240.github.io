@@ -8,9 +8,25 @@
 
 ---
 
-##  Projects
-- **Static Personal Website** – Built and deployed using AWS.
-- **Replica of Income Tax Department** – Designed as a frontend mockup for government portal UI.
+## 🚀 Projects
+
+### Static Personal Website | AWS EC2, IAM, WordPress  
+**July 2024**
+- Developed and hosted a website using **Amazon EC2** with **WordPress** for content management.
+- Implemented **IAM roles** and **Elastic IP** to secure and stabilize the deployment.
+
+<div align="center">
+  <img src="assets/img/1.jpg" alt="AWS Project Screenshot 1" width="30%" style="margin: 10px;">
+  <img src="assets/img/2.jpg" alt="AWS Project Screenshot 2" width="30%" style="margin: 10px;">
+  <img src="assets/img/3.jpg" alt="AWS Project Screenshot 3" width="30%" style="margin: 10px;">
+</div>
+
+---
+
+### Replica of Income Tax Department | HTML, CSS, JavaScript  
+**October 2022**
+- Created a responsive, visually accurate replica of the official website.
+- Used **CSS** and **JavaScript** for interactivity and modern UI design principles.
 
 ---
 
