@@ -14,7 +14,7 @@ title: "Timothy's Portfolio"
 - Hosted WordPress site on EC2 with secure IAM setup.
 - Assigned Elastic IP for persistent access.
 
-### Project Images (Carousel)
+### Project Images 
 <div class="carousel-wrapper">
   <div class="carousel">
     <div class="carousel-item">
@@ -64,7 +64,7 @@ title: "Timothy's Portfolio"
 
   .carousel {
     display: flex;
-    animation: scroll 20s linear infinite; /* Slow down the scroll speed */
+    animation: scroll 30s linear infinite; /* Slow down the scroll speed */
     gap: 10px;
   }
 
