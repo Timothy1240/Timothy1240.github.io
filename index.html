@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Timothy's Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background: #f8f9fa;
+      color: #212529;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    h1, h2 {
+      color: #343a40;
+    }
+    .carousel-container {
+      max-width: 100%;
+      overflow: hidden;
+      position: relative;
+      margin: 20px 0;
+    }
+    .carousel {
+      display: flex;
+      animation: scroll 12s infinite linear;
+      width: calc(3 * 100%);
+    }
+    .carousel-img {
+      width: 100%;
+      object-fit: cover;
+      flex-shrink: 0;
+      padding: 10px;
+    }
+    @keyframes scroll {
+      0%   { transform: translateX(0%); }
+      33%  { transform: translateX(-100%); }
+      66%  { transform: translateX(-200%); }
+      100% { transform: translateX(0%); }
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .resume-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background: #007bff;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Timothy's Portfolio</h1>
+  <img src="assets/img/profile.jpg" alt="Profile Picture" width="150" style="border-radius: 10px;" />
+
+  <div class="section">
+    <h2>About Me</h2>
+    <p>Aspiring cloud and cybersecurity enthusiast with hands-on experience in AWS and a passion for scalable infrastructure.</p>
+  </div>
+
+  <div class="section">
+    <h2>Internship</h2>
+    <p><strong>Summer Internship – Gokboru Tech Pvt. Ltd.</strong><br/>
+    - Worked with AWS EC2, S3, Route 53, IAM.<br/>
+    - Deployed personal website and collaborated on real-world cloud infrastructure.</p>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+
+    <h3>Static Personal Website | AWS EC2, IAM, WordPress (July 2024)</h3>
+    <ul>
+      <li>Hosted WordPress site on EC2 with secure IAM setup.</li>
+      <li>Assigned Elastic IP for persistent access.</li>
+    </ul>
+
+    <div class="carousel-container">
+      <div class="carousel">
+        <img src="assets/img/1.jpg" class="carousel-img" alt="AWS Screenshot 1" />
+        <img src="assets/img/2.jpg" class="carousel-img" alt="AWS Screenshot 2" />
+        <img src="assets/img/3.jpg" class="carousel-img" alt="AWS Screenshot 3" />
+      </div>
+    </div>
+
+    <h3>Replica of Income Tax Department (Oct 2022)</h3>
+    <ul>
+      <li>Built responsive UI using HTML, CSS, and JavaScript.</li>
+      <li>Replicated real-world government portal design.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Certificates</h2>
+    <ul>
+      <li>Ethical Hacking Essentials – Coursera, Dec 2024</li>
+      <li>Digital Forensics Essentials – Coursera, Dec 2024</li>
+      <li>Cloud Computing – NPTEL, Oct 2024</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Lovely Professional University</strong> – B.Tech CSE, CGPA: 5.77 (2022–Present)</li>
+      <li><strong>Sri Gayathri Junior College</strong> – 12th (81%), Hyderabad (2020–2022)</li>
+      <li><strong>D.A.V Public School</strong> – 10th (74%), Mothugudem (2019–2020)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Resume</h2>
+    <a href="assets/files/timothy_resume.pdf" class="resume-button" download>Download Resume</a>
+  </div>
+
+</body>
+</html>
