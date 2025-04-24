@@ -1,5 +1,5 @@
-## Intership
-### Summer intership
+ Intership
+ Summer intership
 Gokboru Tech Pvt. Ltd.
   • Gained hands-on experience in AWS cloud computing, working with services like EC2, S3, Route 53, and IAM.
   • Developed and deployed a personal static website, enhancing skills in cloud security, networking, and deployment.
