@@ -4,3 +4,6 @@ description: >-
   As a resourceful and dedicated student, I am passionate about developing my technical skills and expanding my knowledge in the field of cybersecurity.
 theme: jekyll-theme-hacker
 profile_picture: /assets/img/profile.jpg
+social_links:
+  github: https://github.com/timothy1240
+  linkedin: https://www.linkedin.com/in/timothy-muppidi
