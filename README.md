@@ -28,4 +28,4 @@
 
 ---
 
-## 📄 [Download Resume](./assets/files/timothy_resume.pdf)
+## 📄 [Download Resume](./assets/files/timothy Specilzed CV)
