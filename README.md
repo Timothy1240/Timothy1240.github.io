@@ -1,4 +1,4 @@
-# Specilized in CyberSecurity
+# Timothy Muppidi
 
 ### Projects
 Static personal Website
