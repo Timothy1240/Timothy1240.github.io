@@ -1,4 +1,3 @@
-![Profile Picture](assets/img/portfolio images)
 ##  Internship
 
 ### Summer Internship — Gokboru Tech Pvt. Ltd.
