@@ -14,17 +14,34 @@
 
 ---
 
-##  Certificates
-- **Ethical Hacking Essentials**
-- **Digital Forensics Essentials**
-- **Cloud Computing**
+## 📜 Certificates
+
+- **Ethical Hacking Essentials** – *Coursera, December 2024*
+- **Digital Forensics Essentials** – *Coursera, December 2024*
+- **Cloud Computing** – *NPTEL, October 2024*
 
 ---
 
-##  Education
-- 10th Grade
-- 12th Grade
-- B.Tech (Pursuing)
+## 🎓 Education
+
+### Lovely Professional University — Punjab  
+**B.Tech in Computer Science and Engineering**  
+📍 *August 2022 – Present*  
+🎓 CGPA: **5.77**
+
+---
+
+### Sri Gayathri Junior College — Hyderabad  
+**12th with Science**  
+📍 *April 2020 – March 2022*  
+📈 Percentage: **81.00%**
+
+---
+
+### D.A.V Public School — Mothugudem  
+**10th with Science**  
+📍 *April 2019 – March 2020*  
+📈 Percentage: **74.00%**
 
 ---
 
