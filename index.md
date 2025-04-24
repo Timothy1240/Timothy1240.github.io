@@ -64,13 +64,13 @@ title: "Timothy's Portfolio"
 
   .carousel {
     display: flex;
-    animation: scroll 15s linear infinite; /* Slow down the scroll speed */
+    animation: scroll 20s linear infinite; /* Slow down the scroll speed */
     gap: 10px;
   }
 
   .carousel-item {
     flex: 0 0 auto;
-    width: 90%; /* Adjust image width to 90% */
+    width: 80%; /* Reduce width to 80% to make images smaller */
     margin: 0 auto;
   }
 
@@ -96,3 +96,4 @@ title: "Timothy's Portfolio"
     100% { transform: translateX(0%); }
   }
 </style>
+
