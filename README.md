@@ -15,11 +15,14 @@
 - Developed and hosted a website using **Amazon EC2** with **WordPress** for content management.
 - Implemented **IAM roles** and **Elastic IP** to secure and stabilize the deployment.
 
-<div align="center">
-  <img src="assets/img/1.jpg" alt="AWS Project Screenshot 1" width="40%" style="margin: 10px;">
-  <img src="assets/img/2.jpg" alt="AWS Project Screenshot 2" width="40%" style="margin: 10px;">
-  <img src="assets/img/3.jpg" alt="AWS Project Screenshot 3" width="40%" style="margin: 10px;">
+<div class="carousel-wrapper">
+  <div class="carousel">
+    <img src="assets/img/1.jpg" alt="Screenshot 1" />
+    <img src="assets/img/2.jpg" alt="Screenshot 2" />
+    <img src="assets/img/3.jpg" alt="Screenshot 3" />
+  </div>
 </div>
+
 
 ---
 
