@@ -10,6 +10,8 @@ title: "Timothy's Portfolio"
 - Strengthened problem-solving skills by resolving cloud infrastructure issues, optimizing deployment strategies, and improving security configurations.
 - Collaborated on real-world cloud projects, enhancing hands-on knowledge of server management, automation, and scalable deployment techniques.
 
+## Projects
+
 ## Static Personal Website | AWS EC2, IAM, WordPress (July 2024)
 - Hosted WordPress site on EC2 with secure IAM setup.
 - Assigned Elastic IP for persistent access.
